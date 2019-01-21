@@ -1,0 +1,8 @@
+.DS_Store
+/tmp/*
+!/tmp/.gitignore
+
+Berksfile.lock
+Gemfile.lock
+.vagrant
+##
